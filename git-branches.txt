@@ -1,0 +1,15 @@
+git branches
+
+master -> localbranch -> pull request -> approve and merge 
+
+git clone URL 
+git pull 
+git branch gitbranch_12_May_2024
+git checkout gitbranch_12_May_2024
+vim git-branches.txt
+git status 
+git add git-branches.txt or git add .
+git status 
+git commit -m "adding git-branches.txt"
+git push origin gitbranch_12_May_2024
+Pull Request 
