@@ -6,3 +6,11 @@ git commit -m "first commit"
 git branch -M master
 git remote add origin https://github.com/lakhinananikhil88/Git.git
 git push -u origin master
+
+
+
+git status
+git add git-commands.txt
+git status
+git commit -m "updated Git-commands.txt with commands"
+git push -u origin master
